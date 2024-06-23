@@ -101,16 +101,16 @@
 		<item href="text/chapter-2-3-1.xhtml" id="chapter-2-3-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2-3-2.xhtml" id="chapter-2-3-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2-3-3.xhtml" id="chapter-2-3-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3-0-1.xhtml" id="chapter-3-0-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3-0-2.xhtml" id="chapter-3-0-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3-0-3.xhtml" id="chapter-3-0-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3-0-4.xhtml" id="chapter-3-0-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3-0-5.xhtml" id="chapter-3-0-5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3-0-6.xhtml" id="chapter-3-0-6.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-4-0-1.xhtml" id="chapter-4-0-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-4-0-2.xhtml" id="chapter-4-0-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-5-0-1.xhtml" id="chapter-5-0-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-5-0-2.xhtml" id="chapter-5-0-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3-1.xhtml" id="chapter-3-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3-2.xhtml" id="chapter-3-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3-3.xhtml" id="chapter-3-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3-4.xhtml" id="chapter-3-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3-5.xhtml" id="chapter-3-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3-6.xhtml" id="chapter-3-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4-1.xhtml" id="chapter-4-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4-2.xhtml" id="chapter-4-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5-1.xhtml" id="chapter-5-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5-2.xhtml" id="chapter-5-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-6-2-1.xhtml" id="chapter-6-2-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-6-2-2.xhtml" id="chapter-6-2-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-6-2-3.xhtml" id="chapter-6-2-3.xhtml" media-type="application/xhtml+xml"/>
@@ -187,18 +187,18 @@
 		<itemref idref="chapter-2-3-2.xhtml"/>
 		<itemref idref="chapter-2-3-3.xhtml"/>
 		<itemref idref="part-3.xhtml"/>
-		<itemref idref="chapter-3-0-1.xhtml"/>
-		<itemref idref="chapter-3-0-2.xhtml"/>
-		<itemref idref="chapter-3-0-3.xhtml"/>
-		<itemref idref="chapter-3-0-4.xhtml"/>
-		<itemref idref="chapter-3-0-5.xhtml"/>
-		<itemref idref="chapter-3-0-6.xhtml"/>
+		<itemref idref="chapter-3-1.xhtml"/>
+		<itemref idref="chapter-3-2.xhtml"/>
+		<itemref idref="chapter-3-3.xhtml"/>
+		<itemref idref="chapter-3-4.xhtml"/>
+		<itemref idref="chapter-3-5.xhtml"/>
+		<itemref idref="chapter-3-6.xhtml"/>
 		<itemref idref="part-4.xhtml"/>
-		<itemref idref="chapter-4-0-1.xhtml"/>
-		<itemref idref="chapter-4-0-2.xhtml"/>
+		<itemref idref="chapter-4-1.xhtml"/>
+		<itemref idref="chapter-4-2.xhtml"/>
 		<itemref idref="part-5.xhtml"/>
-		<itemref idref="chapter-5-0-1.xhtml"/>
-		<itemref idref="chapter-5-0-2.xhtml"/>
+		<itemref idref="chapter-5-1.xhtml"/>
+		<itemref idref="chapter-5-2.xhtml"/>
 		<itemref idref="part-6.xhtml"/>
 		<itemref idref="section-6-1.xhtml"/>
 		<itemref idref="section-6-2.xhtml"/>
