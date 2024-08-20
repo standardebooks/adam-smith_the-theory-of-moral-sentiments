@@ -31,39 +31,37 @@
 		<dc:subject id="subject-1">Ethics</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85045096</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">Adam Smith assesses the source(s) of human morality, and the role of human sympathies in judging the propriety of our actions and behaviors.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;The Theory of Moral Sentiments&lt;/i&gt;, Adam Smith assesses the source(s) of human morality, and the role of human sympathies in judging the propriety of our actions and behaviors. Initially published in 1759, and revised by Smith in 1790 (as the 6th Edition), this work bookended Smith's writing career and was foundation to other works such as &lt;i&gt;The Wealth of Nations&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Moral Sentiments&lt;/i&gt;, Smith delves into the inner workings and presumed sources of human morality. One important concept, frequently referenced by Smith, is that of the “impartial spectator.” This supposed viewer, who could be a stranger, friend or family members, or even “the man within the breast” (our own conscience), observes all of our actions and judges their propriety and seemliness. Whether we express grief, anger, gratitude, benevolence or some other feeling, the impartial spectator can only approve of our behavior to the extent they can “go along with,” if they were to imagine themselves in our situation.&lt;/p&gt;
+			&lt;p&gt;Smith deals with self-interest, sacrifice, magnanimity, education, cultural expectations, self-command, justice and other factors driving the choices we make. He frequently references the great minds of antiquity, while also grappling with some of his near-contemporaries, scrutinizing their assertions and indicating where he felt they went astray. &lt;i&gt;Moral Sentiments&lt;/i&gt; not only influenced &lt;i&gt;The Wealth of Nations&lt;/i&gt;, but is an influential work of early modern moral philosophy in its own right, and influenced many of the great thinkers of the 18th, 19th and 20th centuries, including the crafters of modern democracies.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58559</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/essaysonimoralse00smitiala</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/adam-smith_the-theory-of-moral-sentiments</meta>
 		<dc:creator id="author">Adam Smith</dc:creator>
 		<meta property="file-as" refines="#author">Smith, Adam</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Adam_Smith</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">n80032761</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Constable</dc:contributor>
+		<meta property="file-as" refines="#artist">Constable, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Constable</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">n80007977</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Ed Brandon</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Brandon, Ed</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Harry Lund</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Lund, Harry</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
