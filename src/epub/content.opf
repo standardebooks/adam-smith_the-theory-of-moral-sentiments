@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/adam-smith/the-theory-of-moral-sentiments</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-09-06T21:39:06Z</dc:date>
+		<meta property="dcterms:modified">2024-09-06T21:39:06Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,17 +32,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85045096</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Adam Smith assesses the source(s) of human morality, and the role of human sympathies in judging the propriety of our actions and behaviors.</dc:description>
+		<dc:description id="description">Adam Smith assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;The Theory of Moral Sentiments&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/adam-smith"&gt;Adam Smith&lt;/a&gt; assesses the source(s) of human morality, and the role of human sympathies in judging the propriety of our actions and behaviors. Initially published in 1759, and revised by Smith in 1790 (as the 6th Edition), this work bookended Smith’s writing career and was foundation to other works such as &lt;i&gt;The Wealth of Nations&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;In &lt;i&gt;Moral Sentiments&lt;/i&gt;, Smith delves into the inner workings and presumed sources of human morality. One important concept, frequently referenced by Smith, is that of the “impartial spectator.” This supposed viewer, who could be a stranger, friend or family members, or even “the man within the breast” (our own conscience), observes all of our actions and judges their propriety and seemliness. Whether we express grief, anger, gratitude, benevolence or some other feeling, the impartial spectator can only approve of our behavior to the extent they can “go along with,” if they were to imagine themselves in our situation.&lt;/p&gt;
-			&lt;p&gt;Smith deals with self-interest, sacrifice, magnanimity, education, cultural expectations, self-command, justice and other factors driving the choices we make. He frequently references the great minds of antiquity, while also grappling with some of his near-contemporaries, scrutinizing their assertions and indicating where he felt they went astray. &lt;i&gt;Moral Sentiments&lt;/i&gt; not only influenced &lt;i&gt;The Wealth of Nations&lt;/i&gt;, but is an influential work of early modern moral philosophy in its own right, and influenced many of the great thinkers of the 18th, 19th and 20th centuries, including the crafters of modern democracies.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Theory of Moral Sentiments&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/adam-smith"&gt;Adam Smith&lt;/a&gt; assesses the sources of human morality and the role of human sympathies in judging the propriety of our actions and behaviors. Initially published in 1759 and revised by Smith in 1790 (as the 6th Edition), this work bookended Smith’s writing career, and served as the foundation for some of his other works like &lt;a href="https://standardebooks.org/ebooks/adam-smith/the-wealth-of-nations"&gt;&lt;i&gt;The Wealth of Nations&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Moral Sentiments&lt;/i&gt;, Smith delves into the inner workings and presumed sources of human morality. One important concept, frequently referenced by Smith, is that of the “impartial spectator.” This supposed viewer—who could be a stranger, a friend, a family member, or even our own conscience—observes all of our actions and judges their propriety and seemliness. Whether we express grief, anger, gratitude, benevolence, or some other feeling, the impartial spectator can only approve of our behavior to the extent they can “go along with” it, if they were to imagine themselves in our situation.&lt;/p&gt;
+			&lt;p&gt;Smith deals with self-interest, sacrifice, magnanimity, education, cultural expectations, self-command, justice and other factors driving the choices we make. He frequently references the great minds of antiquity, while also grappling with some of his near-contemporaries, scrutinizing their assertions and indicating where he felt they went astray. &lt;i&gt;Moral Sentiments&lt;/i&gt; not only influenced &lt;i&gt;The Wealth of Nations&lt;/i&gt;, but is an influential work of early modern moral philosophy in its own right, influencing many of the great thinkers of the 18th, 19th and 20th centuries, including the crafters of modern democracies.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58559</dc:source>
 		<dc:source>https://archive.org/details/essaysonimoralse00smitiala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">161185</meta>
+		<meta property="se:reading-ease.flesch">38.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/adam-smith_the-theory-of-moral-sentiments</meta>
 		<dc:creator id="author">Adam Smith</dc:creator>
@@ -68,6 +68,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
