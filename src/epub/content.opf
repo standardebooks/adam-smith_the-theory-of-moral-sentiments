@@ -48,7 +48,7 @@
 		<dc:creator id="author">Adam Smith</dc:creator>
 		<meta property="file-as" refines="#author">Smith, Adam</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Adam_Smith</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">n80032761</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80032761</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
