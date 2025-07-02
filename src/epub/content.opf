@@ -55,7 +55,7 @@
 		<dc:contributor id="artist">John Constable</dc:contributor>
 		<meta property="file-as" refines="#artist">Constable, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Constable</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">n80007977</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80007977</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Ed Brandon</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brandon, Ed</meta>
