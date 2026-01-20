@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58559</dc:source>
 		<dc:source>https://archive.org/details/essaysonimoralse00smitiala</dc:source>
-		<meta property="se:word-count">161185</meta>
+		<meta property="se:word-count">161144</meta>
 		<meta property="se:reading-ease.flesch">38.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/adam-smith_the-theory-of-moral-sentiments</meta>
